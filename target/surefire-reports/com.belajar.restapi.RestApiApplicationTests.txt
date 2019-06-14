@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.belajar.restapi.RestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.838 s - in com.belajar.restapi.RestApiApplicationTests
